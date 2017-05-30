@@ -1,0 +1,6 @@
+- The user has 0-n pets
+
+PETS
+- A pet has a class
+- A pet has 6 abilities
+- A pet takes more damage from another pet depend
