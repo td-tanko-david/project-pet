@@ -1,6 +1,18 @@
-- The user has 0-n pets
+USERS
+- A user has 0-n pets
 
 PETS
 - A pet has a class
 - A pet has 6 abilities
-- A pet takes more damage from another pet depend
+- A pet takes more damage from another pet depending on both their classes
+- A pet counters an other pet, if it takes less damage from it
+- A pet is countered by an other pet, if it takes more damage from it
+
+ABILITIES
+- An ability does more damage to a pet depending on what class the pet is
+- An ability counters a pet, if it does more damage to it
+- An ability is countered by a pet, if it does less damage to it
+
+CLASSES
+- A class describes a pet
+- A pet takes more damage from another pet depending on both their classes
